@@ -1,1 +1,8 @@
 terri resume
+
+Hi, my name is YerimOh.
+I'm 25, i studyed computersoftware at college.
+
+정처기
+dacon 데이터 분석을 통한 취업 트렌드 연구
+java, c, javascript, html, css, react, ...
